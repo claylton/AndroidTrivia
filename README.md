@@ -9,7 +9,6 @@
 <div align="center">
   
  ![GitHub repo size](https://img.shields.io/github/repo-size/claylton/AndroidTrivia)
- ![GitHub](https://img.shields.io/github/license/claylton/AndroidTrivia)
  ![GitHub top language](https://img.shields.io/github/languages/top/claylton/AndroidTrivia)
  ![GitHub last commit](https://img.shields.io/github/last-commit/claylton/AndroidTrivia)
 
