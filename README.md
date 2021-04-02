@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/claylton/Dice-Roller/blob/main/readme-elements/dado-banner.png" height="250" width="250" alt="Unform" />
+  <img src="https://github.com/claylton/AndroidTrivia/blob/claylton-readme-update/readme-elements/android-trivia.png" height="250" width="250" alt="Unform" />
 </p>
 
 <h3 align="center">
@@ -46,7 +46,12 @@
 
 ## 📱 Demonstração da aplicação
 <p align="center">
-  <img alt="Demo on Netlify" src="https://github.com/claylton/Dice-Roller/blob/main/readme-elements/dado%20gif.gif" height="500" width="250">
+  <img alt="Demo on Netlify" src="https://github.com/claylton/AndroidTrivia/blob/claylton-readme-update/readme-elements/home.png" height="500" width="250">
+	<img alt="Demo on Netlify" src="https://github.com/claylton/AndroidTrivia/blob/claylton-readme-update/readme-elements/menu%20lateral.png" height="500" width="250">
+	<img alt="Demo on Netlify" src="https://github.com/claylton/AndroidTrivia/blob/claylton-readme-update/readme-elements/questions.png" height="500" width="250">
+	<img alt="Demo on Netlify" src="https://github.com/claylton/AndroidTrivia/blob/claylton-readme-update/readme-elements/lose.png" height="500" width="250">
+	<img alt="Demo on Netlify" src="https://github.com/claylton/AndroidTrivia/blob/claylton-readme-update/readme-elements/win.png" height="500" width="250">
+	<img alt="Demo on Netlify" src="https://github.com/claylton/AndroidTrivia/blob/claylton-readme-update/readme-elements/share.png" height="500" width="250">
 </p>
 
 ---
